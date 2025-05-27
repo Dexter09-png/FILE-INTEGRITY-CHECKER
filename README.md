@@ -20,5 +20,3 @@ In conclusion, this project shows how a basic concept like hashing can be used i
 *OUTPUT*
 
 ![Image](https://github.com/user-attachments/assets/1bf8f6ac-c32d-4379-ba5d-3e84e86867de)
-
-![Image](https://github.com/user-attachments/assets/e32f4056-3b4a-42cc-b51a-67bbf4cb117c)
