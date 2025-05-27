@@ -18,3 +18,7 @@ In today's digital world, keeping files safe and unaltered is more important tha
 In conclusion, this project shows how a basic concept like hashing can be used in a practical and effective way. The File Integrity Checker offers a simple solution to a big problem: keeping files safe and unchanged. It's a great example of how programming skills can be used to build real-world tools that help improve digital security and reliability.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/1bf8f6ac-c32d-4379-ba5d-3e84e86867de)
+
+![Image](https://github.com/user-attachments/assets/e32f4056-3b4a-42cc-b51a-67bbf4cb117c)
